@@ -1,7 +1,0 @@
-# This is folder for getting the MF data. It contains file 01_MF_data_scrapper.ipynb
-
-#We start with this file which uses the links in the excel files. 
-
-#Having downloaded data it is stored in results
-
-#we club the results and run 02_MF_Completion_of_portfolio.ipynb; which would fill in the gap if the sum total is not 100%
